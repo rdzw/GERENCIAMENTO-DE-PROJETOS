@@ -1,4 +1,4 @@
-GERENCIAMENTO DE 
+GERENCIAMENTO DE PROJETOS
 
 
   1- Fiz o projeto no Pycharms
