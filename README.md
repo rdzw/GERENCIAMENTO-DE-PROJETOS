@@ -1,4 +1,8 @@
-GERENCIAMENTO DE PROJETOS
+PROTOTIPAÇÃO BAIXA FIDELIDADE:
+https://www.figma.com/file/JC4kxspGtxkrNlcSkh73K3/SISTEMA-GERENCIAR-PROJETOS?node-id=0%3A1
+
+
+GERENCIAMENTO DE PROJETOS:
 
 
   1- Fiz o projeto no Pycharms
